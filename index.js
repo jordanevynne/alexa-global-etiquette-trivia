@@ -25,21 +25,19 @@
  */
 var questions = [
     {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
+          "In Japan, which of the following numbers is avoided and considered unlucky?": [
+            "1",
+            "4",
+            "8",
+            "2"
         ]
     },
     {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
+        "In Japan, which of the following is considered rude at a restaurant?": [
+            "Leaving a tip",
+            "Slurping your food",
+            "Interrupting table conversation",
+            "Shouting for service"
         ]
     },
     {
