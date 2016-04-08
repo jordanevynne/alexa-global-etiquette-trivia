@@ -41,19 +41,20 @@ var questions = [
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "In which country is it impolite to show up to a party on time?": [
+            "India",
+            "Japan",
+            "Argentina",
+            "United Kingdom",
+            "Switzerland"
         ]
     },
     {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
+        "In Finland, it is common to hold a business meeting in which of the following locations?:": [
+            "At the top of a mountain",
+            "At a park",
+            "In a vehicle",
+            "In a sauna"
         ]
     },
     {
