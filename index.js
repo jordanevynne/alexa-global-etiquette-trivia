@@ -26,10 +26,10 @@
 var questions = [
     {
         "In Japan, which of the following numbers is avoided and considered unlucky?": [
-            "1",
-            "4",
-            "8",
-            "2"
+            "one",
+            "four",
+            "eight",
+            "two"
         ]
     },
     {
@@ -115,10 +115,10 @@ var questions = [
     },
     {
         "What is the legal drinking age in Iceland?": [
-            "14",
-            "25",
-            "20",
-            "18"
+            "fourteen",
+            "twenty-five",
+            "twenty",
+            "eighteen"
         ]
     },
     {
@@ -155,11 +155,11 @@ var questions = [
     },
     {
         "In Russia, which is an acceptable number of flowers to give to someone?": [
-            "12",
-            "14",
-            "10",
-            "11",
-            "20"
+            "twelve",
+            "fourteen",
+            "ten",
+            "eleven",
+            "twenty"
         ]
     },
     {
