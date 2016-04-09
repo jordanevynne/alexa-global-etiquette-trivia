@@ -26,8 +26,8 @@
 var questions = [
     {
         "In Japan, which of the following numbers is avoided and considered unlucky?": [
-            "one",
             "four",
+            "one",
             "eight",
             "two"
         ]
@@ -42,24 +42,24 @@ var questions = [
     },
     {
         "In which country is it impolite to show up to a party on time?": [
+            "Argentina",
             "India",
             "Japan",
-            "Argentina",
             "United Kingdom"
         ]
     },
     {
         "In Finland, it is common to hold a business meeting in which of the following locations?": [
+            "In a sauna",
             "At the top of a mountain",
             "At a park",
-            "In a vehicle",
-            "In a sauna"
+            "In a vehicle"
         ]
     },
     {
         "In South Korea, you should never:": [
-            "Eat rice with a spoon",
             "Pour your own beverage",
+            "Eat rice with a spoon",
             "Remove your shoes",
             "Share your food"
         ]
@@ -74,25 +74,25 @@ var questions = [
     },
     {
         "In China, which of the following gestures is polite?": [
+            "Pointing with an open hand",
             "Putting your feet on a desk",
             "Whistling",
-            "Blowing your nose",
-            "Pointing with an open hand"
+            "Blowing your nose"
         ]
     },
     {
         "In India, you should use the following color to wrap a gift:": [
+            "Green",
             "Black",
             "White",
-            "Green",
             "Grey"
         ]
     },
     {
         "In India, which of the following is an acceptable gift?": [
+            "A folding knife",
             "A bottle of wine",
             "A leather bracelet",
-            "A folding knife",
             "A carton of eggs"
         ]
     },
@@ -106,17 +106,17 @@ var questions = [
     },
     {
         "In Dubai, the left hand is thought to be:": [
-            "Sacred",
             "Unclean",
+            "Sacred",
             "Used for eating",
             "Reserved for hygiene"
         ]
     },
     {
         "What is the legal drinking age in Iceland?": [
+            "twenty",
             "fourteen",
             "twenty-five",
-            "twenty",
             "eighteen"
         ]
     },
@@ -131,15 +131,15 @@ var questions = [
     {
         "In Japan, what is the best way to show your respect when giving and receiving a business card?": [
             "Use both hands",
-            "Ensure the card is facing upwards",
-            "Keep your cards in a professional card case",
-            "All of these"
+            "Ensure the card is facing downwards",
+            "Keep your cards in your pocket",
+            "Handwrite personal information on the card"
         ]
     },
     {
         "In Germany, it is proper dining etiquette to keep your hands here at all times:": [
-            "In your lap",
             "On the table",
+            "In your lap",
             "Holding your silverware",
             "Holding your food"
         ]
@@ -154,33 +154,33 @@ var questions = [
     },
     {
         "In Russia, which is an acceptable number of flowers to give to someone?": [
+            "eleven",
             "twelve",
             "fourteen",
-            "ten",
-            "eleven"
+            "ten"
         ]
     },
     {
         "In Russia, vodka is held in high regard which is why you should never:": [
-            "Finish an opened bottle",
             "Mix it with orange juice",
+            "Finish an opened bottle",
             "Drink it straight",
             "Finish your own drink"
         ]
     },
     {
         "Which of these countries has a typical Monday through Friday work week?": [
-            "Iran",
             "Estonia",
+            "Iran",
             "Yemen",
             "Bangladesh"
         ]
     },
     {
         "In Italy, which is the proper signal to indicate that you do not want anymore wine?": [
+            "Leave your glass half full",
             "Yell to the host",
             "Tap your wine glass with a fork",
-            "Leave your glass half full",
             "Give your wine to your neighbor"
         ]
     }
