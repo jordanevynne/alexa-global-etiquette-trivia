@@ -25,7 +25,7 @@
  */
 var questions = [
     {
-          "In Japan, which of the following numbers is avoided and considered unlucky?": [
+        "In Japan, which of the following numbers is avoided and considered unlucky?": [
             "1",
             "4",
             "8",
@@ -33,7 +33,7 @@ var questions = [
         ]
     },
     {
-        "In Japan, which of the following is considered rude at a restaurant?": [
+        "In Japan, which of the following is seen as a rude gesture at a restaurant?": [
             "Leaving a tip",
             "Slurping your food",
             "Interrupting table conversation",
@@ -50,7 +50,7 @@ var questions = [
         ]
     },
     {
-        "In Finland, it is common to hold a business meeting in which of the following locations?:": [
+        "In Finland, it is common to hold a business meeting in which of the following locations?": [
             "At the top of a mountain",
             "At a park",
             "In a vehicle",
@@ -58,67 +58,67 @@ var questions = [
         ]
     },
     {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
+        "In South Korea, you should never:": [
+            "Eat rice with a spoon",
+            "Pour your own beverage",
+            "Remove your shoes",
+            "Share your food"
         ]
     },
     {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
+        "In the United Kingdom, which gesture is used to signal that something should be kept confidential?": [
+            "Tapping your nose",
+            "Scratching the top of your head",
+            "Putting your hand on your hip",
+            "Winking"
         ]
     },
     {
-        "In what year did Rudolph make his television debut?": [
-            "1964",
-            "1979",
-            "2000",
-            "1956"
+        "In China, which of the following gestures is polite?": [
+            "Putting your feet on a desk",
+            "Whistling",
+            "Blowing your nose",
+            "Pointing with an open hand"
         ]
     },
     {
-        "Who was the voice of Rudolph in the 1964 classic?": [
-            "Billie Mae Richards",
-            "Burl Ives",
-            "Paul Soles",
-            "Lady Gaga"
+        "In India, you should use the following color to wrap a gift:": [
+            "Black",
+            "White",
+            "Green",
+            "Grey"
         ]
     },
     {
-        "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-            "Montgomery Ward",
-            "Sears",
-            "Macys",
-            "Kmart"
+        "In India, which of the following is an acceptable gift?": [
+            "A bottle of wine",
+            "A leather bracelet",
+            "A folding knife",
+            "A carton of eggs"
         ]
     },
     {
-        "Santa's reindeer named Donner was originally named what?": [
-            "Dunder",
-            "Donny",
-            "Dweedle",
-            "Dreamy"
+        "In Spain, it is common practice to do this at a bar:": [
+            "Throw trash on the floor",
+            "Put a napkin in your lap",
+            "Take your shoes off",
+            "Pray before your first beverage"
         ]
     },
     {
-        "Who invented the story of Rudolph?": [
-            "Robert May",
-            "Johnny Marks",
-            "Santa",
-            "J.K. Rowling"
+        "In Dubai, the left hand is:": [
+            "Sacred",
+            "Unclean",
+            "Used for eating",
+            "Reserved for hygiene"
         ]
     },
     {
-        "In what location will you not find reindeer?": [
-            "North Pole",
-            "Lapland",
-            "Korvatunturi mountain",
-            "Finland"
+        "What is the legal drinking age in Iceland?": [
+            "14",
+            "25",
+            "20",
+            "18"
         ]
     },
     {
@@ -183,86 +183,6 @@ var questions = [
             "Bag",
             "Pillow case",
             "Sock"
-        ]
-    },
-    {
-        "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-            "Dentist",
-            "Reindeer",
-            "Toy maker",
-            "Candlestick maker"
-        ]
-    },
-    {
-        "In the 1964 movie,what was the Bumble's one weakness?": [
-            "Could not swim",
-            "Always hungry",
-            "Candy canes",
-            "Cross eyed"
-        ]
-    },
-    {
-        "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-            "Peppermint",
-            "Gold",
-            "India",
-            "Polar Bears"
-        ]
-    },
-    {
-        "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-            "Square wheels",
-            "No Engine",
-            "Paint does not match",
-            "It does not toot"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the Jack in the Box?": [
-            "Charlie",
-            "Sam",
-            "Billy",
-            "Jack"
-        ]
-    },
-    {
-        "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-            "Storm",
-            "No snow",
-            "No toys",
-            "The Reindeer were sick"
-        ]
-    },
-    {
-        "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-            "Oink",
-            "Growl",
-            "Bark",
-            "Meow"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the prospector?": [
-            "Yukon Cornelius",
-            "Slider Sam",
-            "Bumble",
-            "Jack"
-        ]
-    },
-    {
-        "How far do reindeer travel when they migrate?": [
-            "3000 miles",
-            "700 miles",
-            "500 miles",
-            "0 miles"
-        ]
-    },
-    {
-        "How fast can a reindeer run?": [
-            "48 miles per hour",
-            "17 miles per hour",
-            "19 miles per hour",
-            "14 miles per hour"
         ]
     }
 ];
