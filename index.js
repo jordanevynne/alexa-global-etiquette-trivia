@@ -106,7 +106,7 @@ var questions = [
         ]
     },
     {
-        "In Dubai, the left hand is:": [
+        "In Dubai, the left hand is thought to be:": [
             "Sacred",
             "Unclean",
             "Used for eating",
@@ -122,67 +122,69 @@ var questions = [
         ]
     },
     {
-        "What Makes Santa's Reindeer Fly?": [
-            "Magical Reindeer Dust",
-            "Fusion",
-            "Amanita muscaria",
-            "Elves"
+        "In China, up to how many times is it customary to refuse a gift?": [
+            "three times",
+            "one time",
+            "never refuse a gift",
+            "five times"
         ]
     },
     {
-        "Including Rudolph, how many reindeer hooves are there?": [
-            "36",
-            "24",
-            "16",
-            "8"
+        "In Japan, what is the best way to show your respect when giving and receiving a business card?": [
+            "Use both hands",
+            "Ensure the card is facing upwards",
+            "Keep your cards in a professional card case",
+            "All of these"
         ]
     },
     {
-        "Santa only has one female reindeer. Which one is it?": [
-            "Vixen",
-            "Clarice",
-            "Cupid",
-            "Cupid"
+        "In Germany, it is proper dining etiquette to keep your hands here at all times:": [
+            "In your lap",
+            "On the table",
+            "Holding your silverware",
+            "Holding your food"
         ]
     },
     {
-        "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-            "Sam",
-            "Frosty",
-            "Burl",
-            "Snowy"
+        "In which of the following countries is the thumbs up signal offensive?": [
+            "Nigeria",
+            "United States",
+            "Turkey",
+            "Greenland"
         ]
     },
     {
-        "What was Rudolph's father's name?": [
-            "Donner",
-            "Dasher",
-            "Blixen",
-            "Comet"
+        "In Russia, which is an acceptable number of flowers to give to someone?": [
+            "12",
+            "14",
+            "10",
+            "11",
+            "20"
         ]
     },
     {
-        "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-            "Comet",
-            "Blixen",
-            "Donner",
-            "Dasher"
+        "In Russia, vodka is held in high regard which is why you should never:": [
+            "Finish an opened bottle",
+            "Mix it with orange juice",
+            "Drink it straight",
+            "Finish your own drink"
         ]
     },
     {
-        "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-            "Fireball",
-            "Clarice",
-            "Jumper",
-            "Vixen"
+        "Which of these countries has a typical Monday through Friday work week?": [
+            "Iran",
+            "Estonia",
+            "Yemen",
+            "Bangladesh",
+            "Jordan"
         ]
     },
     {
-        "In the 1964 movie, How did Donner, Rudolph's father, try to hide Rudolph's nose?": [
-            "Black mud",
-            "Bag",
-            "Pillow case",
-            "Sock"
+        "In Italy, which is the proper signal to indicate that you do not want anymore wine?": [
+            "Yell to the host",
+            "Tap your wine glass with a fork",
+            "Leave your glass half full",
+            "Give your wine to your neighbor"
         ]
     }
 ];
