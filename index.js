@@ -45,8 +45,7 @@ var questions = [
             "India",
             "Japan",
             "Argentina",
-            "United Kingdom",
-            "Switzerland"
+            "United Kingdom"
         ]
     },
     {
@@ -158,8 +157,7 @@ var questions = [
             "twelve",
             "fourteen",
             "ten",
-            "eleven",
-            "twenty"
+            "eleven"
         ]
     },
     {
@@ -175,8 +173,7 @@ var questions = [
             "Iran",
             "Estonia",
             "Yemen",
-            "Bangladesh",
-            "Jordan"
+            "Bangladesh"
         ]
     },
     {
